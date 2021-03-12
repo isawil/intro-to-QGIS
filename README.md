@@ -6,7 +6,7 @@ This workshop will teach you some of the basics of QGIS, an open-source GIS (Geo
 
 ### What do I need to install?
 
-[Install QGIS](https://qgis.org/en/site/forusers/download.html) (Please install the long term release version--this is the most stable version, with fewer bugs)
+[Install QGIS](https://qgis.org/en/site/forusers/download.html) (Please install the long term release version--this is the most stable version, with the fewest bugs)
 
 Download workshop files (link to come)
 
@@ -20,7 +20,15 @@ Depending on how familiar you are with GIS, you may or may not have heard of QGI
 
 ## Importing data
 
+QGIS allows you to import multiple data types, including ...
+
 ### Understanding vector and raster data types
+
+While there are many kinds of spatial file types, there are two main kinds of data that you'll use when you work with GIS tools. These are called **vector** and **raster** data formats.
+
+**Vector** data consists of points, lines, and polygons. These are discrete objects. Vector data is precise, but not always accurate.
+
+**Raster** data consists of a collection of scalable but equally-sized cells. You can think of these as pixels on a computer screen: although they may have differing colors, every screen has a certain number of square pixels, all of which are the same size. Raster data can come in the form of a background image or basemap.
 
 ### Importing data
 
