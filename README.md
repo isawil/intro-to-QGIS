@@ -6,7 +6,7 @@ This workshop will teach you some of the basics of QGIS, an open-source GIS (Geo
 
 ### What do I need to install?
 
-(Install QGIS)[https://qgis.org/en/site/forusers/download.html] (Please install the long term release version--this is the most stable version, with fewer bugs)
+[Install QGIS](https://qgis.org/en/site/forusers/download.html) (Please install the long term release version--this is the most stable version, with fewer bugs)
 
 Download workshop files (link to come)
 
