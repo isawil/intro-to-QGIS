@@ -8,11 +8,11 @@ This workshop will teach you some of the basics of QGIS, an open-source GIS (Geo
 
 [Install QGIS](https://qgis.org/en/site/forusers/download.html) (Please install the long term release version--this is the most stable version, with the fewest bugs)
 
-Download workshop files (link to come)
+[Download workshop files](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario) (Please download dataset titled "Confirmed positive cases of COVID19 in Ontario")
 
 ### Why QGIS?
 
-Depending on how familiar you are with GIS, you may or may not have heard of QGIS. QGIS is an open-source GIS tool. The software and all plugins are free to download. It also runs on all major operating systems, including Windows, Mac OS, and Linux (Ubuntu). The community is active and friendly and the software is in constant development. QGIS is ideal when you want a program that does most of what ArcGIS does, but don't use Windows.
+QGIS is an open-source GIS tool. The software and all plugins are free to download. It also runs on all major operating systems, including Windows, Mac OS, and Linux (Ubuntu). The community is active and friendly and the software is in constant development. QGIS is ideal when you want a program that does most of what ArcGIS does, but don't use or have access to a computer running Windows.
 
 ## Opening and navigating QGIS
 
