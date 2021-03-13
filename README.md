@@ -8,11 +8,28 @@ This workshop will teach you some of the basics of QGIS, an open-source GIS (Geo
 
 [Install QGIS](https://qgis.org/en/site/forusers/download.html) (Please install the long term release version--this is the most stable version, with the fewest bugs)
 
-[Download workshop files](https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario) (Please download dataset titled "Confirmed positive cases of COVID19 in Ontario")
+[Download workshop files](https://resources-covid19canada.hub.arcgis.com/datasets/health-region-summaries)
+
+You will need a program to unzip the files you download. Depending on your operating system, choose one of the programs below:
+
+Windows:
+
+Mac OS:
+
+Linux:
 
 ### Why QGIS?
 
 QGIS is an open-source GIS tool. The software and all plugins are free to download. It also runs on all major operating systems, including Windows, Mac OS, and Linux (Ubuntu). The community is active and friendly and the software is in constant development. QGIS is ideal when you want a program that does most of what ArcGIS does, but don't use or have access to a computer running Windows.
+
+## Goals and Objectives
+
+Over the course of this workshop, we will create a map that visualizes COVID-19's spread through Canada by:
+
+- Becoming acquainted with the QGIS interface.
+- Learning the difference between raster and vector data.
+- Adding data to our QGIS project.
+- C
 
 ## Opening and navigating QGIS
 
