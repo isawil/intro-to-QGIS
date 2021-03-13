@@ -55,7 +55,9 @@ Basemaps
 
 ## Changing style
 
-![Image of Canada, divided by health regions which are colored from light to dark red to represent the amount of COVID-19 cases.](/canada-full-final.png)
+![Image of Canada, divided by health regions which are colored from light to dark red to represent the amount of reported COVID-19 cases.](/canada-full-final.png)
+
+![Image of Ontario, divided by health regions which are colored from light to dark red to represent the amount of reported COVID-19 cases.](/canada-ontario-final.png)
 
 ## Saving and exporting your map
 
