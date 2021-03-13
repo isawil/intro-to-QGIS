@@ -10,13 +10,13 @@ This workshop will teach you some of the basics of QGIS, an open-source GIS (Geo
 
 [Download workshop files](https://resources-covid19canada.hub.arcgis.com/datasets/health-region-summaries)
 
-You will need a program to unzip the files you download. Depending on your operating system, choose one of the programs below:
+You will need a program to unzip the files you download. Depending on your operating system, choose one of the following options:
 
-Windows:
+Windows: [Use File Explorer](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)
 
-Mac OS:
+Mac OS: [Double click on .zip file](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac) | [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12)
 
-Linux:
+Linux: [Instructions](https://itsfoss.com/unzip-linux/)
 
 ### Why QGIS?
 
