@@ -47,6 +47,8 @@ While there are many kinds of spatial file types, there are two main kinds of da
 
 **Raster** data consists of a collection of scalable but equally-sized cells. You can think of these as pixels on a computer screen: although they may have differing colors, every screen has a certain number of square pixels, all of which are the same size. Raster data can come in the form of a background image or basemap.
 
+Vector data is common in the social sciences, and raster data is common in the environmental sciences. However, this is not a hard and fast rule: many disciplines make use of both.
+
 ### Importing data
 
 To import data, navigate to the toolbar and double click on the button that shows blue, yellow, and red squares stacked on top of each other. 
