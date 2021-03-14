@@ -76,9 +76,15 @@ Every map (including "analog" or "IRL" maps) is designed according to a **projec
 
 One of the most well-known projections is the Mercator projection. The Mercator projection distorts the size of areas far from the equator, meaning that these areas appear to be much larger than they actually are. Because of this, we will adjust the projection used in our project to minimize distortion of Northern Canada.
 
+### Exercise
+
+Open the CRS selection window, and test out two different projections. How do they differ?
+
 ## Changing style
 
-Now that we've imported our data
+Now that we've imported our data, let's change how the map looks.
+
+Open the style panel
 
 ![Image of Canada, divided by health regions which are colored from light to dark red to represent the amount of reported COVID-19 cases.](/canada-full-final.png)
 
