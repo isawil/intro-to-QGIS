@@ -29,7 +29,10 @@ Over the course of this workshop, we will create a map that visualizes COVID-19'
 - Becoming acquainted with the QGIS interface.
 - Learning the difference between raster and vector data.
 - Adding data to our QGIS project.
-- C
+- Adjusting our map's projection.
+- Customizing our map's style.
+- Color coding COVID-19 case totals according to health region.
+- Saving and exporting our project.
 
 ## Opening and navigating QGIS
 
