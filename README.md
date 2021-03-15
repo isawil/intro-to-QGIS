@@ -106,7 +106,7 @@ Open the style panel. Notice the tab next to the paintbrush icon. Currently, thi
 
 Click on "Simple fill" and change the color to "Transparent fill." This will make your map look like this:
 
-![Transparent Canada](/canada-transparent.png)
+![Transparent Canada](/canada-outline.png)
 
 Next, go back to the tab next to the paintbrush icon. Change it from "Simple fill" to "Gradient fill."
 
