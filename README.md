@@ -76,6 +76,16 @@ Every map (including "analog" or "IRL" maps) is designed according to a **projec
 
 One of the most well-known projections is the Mercator projection. The Mercator projection distorts the size of areas far from the equator, meaning that these areas appear to be much larger than they actually are. Because of this, we will adjust the projection used in our project to minimize distortion of Northern Canada.
 
+We will use the Lambert conformal conic projection. In the toolbar at the bottom of your window, click on the button that says ESPG. This will bring up the Project Properties window.
+
+img
+
+In the Filter search bar, type "3347." This is the code for the Lambert conformal conic projection in our coordinate reference system (CRS). Click "Apply."
+
+Your map should look something like this:
+
+img
+
 ### Exercise #1
 
 Open the CRS selection window, and test out two different projections. How do they differ?
@@ -94,12 +104,14 @@ How do the following areas differ between the projections you tried?
 
 Now that we've imported our data, let's change how the map looks.
 
-Open the style panel
+Open the style panel. Notice the tab next to the paintbrush icon. Currently, this tab says "Simple fill." Beneath the tab is a list of options. 
 
-![Image of Canada, divided by health regions which are colored from light to dark red to represent the amount of reported COVID-19 cases.](/canada-full-final.png)
+Click on "Simple fill" and change the color to "Transparent fill." This will make your map look like this:
 
-![Image of Ontario, divided by health regions which are colored from light to dark red to represent the amount of reported COVID-19 cases.](/canada-ontario-final.png)
+img
 
-## Saving and exporting your map
+Next, go back to the tab next to the paintbrush icon. Change it from "Simple fill" to "Gradient fill."
 
-## Additional resources
+In the "Value" tab, change the value to the variable you want to measure. Let's change it to "CaseCount." 
+
+img
