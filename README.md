@@ -76,9 +76,19 @@ Every map (including "analog" or "IRL" maps) is designed according to a **projec
 
 One of the most well-known projections is the Mercator projection. The Mercator projection distorts the size of areas far from the equator, meaning that these areas appear to be much larger than they actually are. Because of this, we will adjust the projection used in our project to minimize distortion of Northern Canada.
 
-### Exercise
+### Exercise #1
 
 Open the CRS selection window, and test out two different projections. How do they differ?
+
+### Exercise #2
+
+How do the following areas differ between the projections you tried?
+
+- Antarctica
+- Ellesmere Island, Nunavut, Canada
+- Greenland
+- Brazil
+- Australia
 
 ## Changing style
 
