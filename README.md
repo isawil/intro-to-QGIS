@@ -34,13 +34,7 @@ Over the course of this workshop, we will create a map that visualizes COVID-19'
 - Color coding COVID-19 case totals according to health region.
 - Saving and exporting our project.
 
-## Opening and navigating QGIS
-
-### Using the interface
-
 ## Importing data
-
-QGIS allows you to import multiple data types, including ...
 
 ### Understanding vector and raster data types
 
@@ -56,7 +50,11 @@ Vector data is common in the social sciences, and raster data is common in the e
 
 To import data, navigate to the toolbar and double click on the button that shows blue, yellow, and red squares stacked on top of each other. 
 
+![Select Data](/qgis-manager.png)
+
 A window called the Data Source Manager will appear. In the sidebar of this window, there are several options for adding data of varying types. 
+
+![Data Source Manager](/qgis-source-manager.png)
 
 For now, we will be importing the workshop files that we downloaded earlier, called "Health Region Summaries." The files in the folder that we downloaded contain information about COVID-19's spread through Canada, including COVID-speciifc information (case, death, and recovery counts by province or territory), as well as general information about different provinces and territories (average age being one example). It also contains boundary lines that we can use to make a map of health regions throughout Canada.
 
@@ -76,15 +74,15 @@ Every map (including "analog" or "IRL" maps) is designed according to a **projec
 
 One of the most well-known projections is the Mercator projection. The Mercator projection distorts the size of areas far from the equator, meaning that these areas appear to be much larger than they actually are. Because of this, we will adjust the projection used in our project to minimize distortion of Northern Canada.
 
-We will use the Lambert conformal conic projection. In the toolbar at the bottom of your window, click on the button that says ESPG. This will bring up the Project Properties window.
+We will use the Lambert conformal conic projection. In the toolbar at the bottom of your window, click on the button that says EPSG. This will bring up the Project Properties window.
 
-img
+![EPSG button](/qgis-epsg.png)
 
 In the Filter search bar, type "3347." This is the code for the Lambert conformal conic projection in our coordinate reference system (CRS). Click "Apply."
 
 Your map should look something like this:
 
-img
+![Map of Canada](/canada-brown.png)
 
 ### Exercise #1
 
@@ -108,10 +106,10 @@ Open the style panel. Notice the tab next to the paintbrush icon. Currently, thi
 
 Click on "Simple fill" and change the color to "Transparent fill." This will make your map look like this:
 
-img
+![Transparent Canada](/canada-transparent.png)
 
 Next, go back to the tab next to the paintbrush icon. Change it from "Simple fill" to "Gradient fill."
 
 In the "Value" tab, change the value to the variable you want to measure. Let's change it to "CaseCount." 
 
-img
+![Gradient Canada](/canada-gradient.png)
